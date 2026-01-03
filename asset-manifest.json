@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Portfolio/static/js/main.986b2eef.js",
+    "main.js": "/Portfolio/static/js/main.901c565a.js",
     "static/media/libraryHome.PNG": "/Portfolio/static/media/libraryHome.abcd351487153717eb30.PNG",
     "static/media/System Design IEEE paper.png": "/Portfolio/static/media/System Design IEEE paper.f29f13b5955211450cf1.png",
     "static/media/Sys Ar (1).png": "/Portfolio/static/media/Sys Ar (1).9247d8b5a198ba5043b5.png",
@@ -8,9 +8,9 @@
     "static/media/library System Design.png": "/Portfolio/static/media/library System Design.84a18362d1b9fd68381b.png",
     "static/media/uniLogo.PNG": "/Portfolio/static/media/uniLogo.44ccae06232f4617f07b.PNG",
     "static/media/ariseLogo.png": "/Portfolio/static/media/ariseLogo.c6b17c4cc8b939001f30.png",
+    "static/media/heart.jpg": "/Portfolio/static/media/heart.55a24272d58a0d731222.jpg",
     "static/media/chapters.jpg": "/Portfolio/static/media/chapters.2bfc23e62b896e277c9c.jpg",
     "static/media/libraryLogo2.PNG": "/Portfolio/static/media/libraryLogo2.ac330606d277db7a10f3.PNG",
-    "static/media/heart.jpg": "/Portfolio/static/media/heart.55dd7523d5702c8440b8.jpg",
     "static/media/uniCourse.PNG": "/Portfolio/static/media/uniCourse.640258dfd06ee5ae7ce9.PNG",
     "static/media/5 coins.jpg": "/Portfolio/static/media/5 coins.7139cbbe2015a26f68ce.jpg",
     "static/media/uniAddStu.PNG": "/Portfolio/static/media/uniAddStu.a7a0ab54b7ae759014a5.PNG",
@@ -20,9 +20,9 @@
     "static/media/github.png": "/Portfolio/static/media/github.553c66159c5672f25df6.png",
     "static/media/linkedin.png": "/Portfolio/static/media/linkedin.d21b834035baa551e886.png",
     "index.html": "/Portfolio/index.html",
-    "main.986b2eef.js.map": "/Portfolio/static/js/main.986b2eef.js.map"
+    "main.901c565a.js.map": "/Portfolio/static/js/main.901c565a.js.map"
   },
   "entrypoints": [
-    "static/js/main.986b2eef.js"
+    "static/js/main.901c565a.js"
   ]
 }
